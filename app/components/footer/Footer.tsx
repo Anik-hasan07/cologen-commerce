@@ -3,6 +3,8 @@ import FooterList from './FooterList'
 import Link from 'next/link'
 import Container from '../Container'
 
+
+
 type Props = {}
 
 const Footer = () => {
